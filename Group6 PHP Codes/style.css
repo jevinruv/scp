@@ -1,0 +1,111 @@
+<style type="text/css"> 
+
+body {
+				text-align: center;
+
+
+			}
+			
+			.cols {
+			
+				width: 16%;
+				height: 30px;
+				margin: 3px;
+				display: inline-block;   
+				text-align: center;
+				
+			}
+			
+
+		
+		div#ten {
+  
+			text-align: center;
+
+			max-width: 100%;
+  
+			padding: 3%;
+}
+
+
+
+
+
+
+.myButtonLink1 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/customer.png') ;
+	text-indent: -99px;
+}
+
+.myButtonLink2 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/sale.png') ;
+	text-indent: -99px;
+}
+
+
+.myButtonLink3 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/birthday.png') ;
+}
+
+.myButtonLink4 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/stock.png') ;
+	text-indent: -99px;
+}
+
+.myButtonLink5 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/warehouse.png') ;
+	text-indent: -99px;
+}
+
+.myButtonLink6 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/purchase.png') ;
+	text-indent: -99px;
+}
+
+.myButtonLink7 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/employee.png') ;
+	text-indent: -99px;
+}
+
+.myButtonLink8 {
+	display: block;
+	width: 128px;
+	height: 128px;
+	background: url('images/retails.png') ;
+	text-indent: -99px;
+}
+
+
+
+:hover {
+    opacity: 0.3;
+}
+
+
+
+
+
+
+
+</style>
